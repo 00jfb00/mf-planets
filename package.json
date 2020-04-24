@@ -1,11 +1,9 @@
 {
-  "name": "@00jfb00/planets",
+  "name": "@00jfb00/mf-planets",
   "version": "1.0.9",
   "author": "Julio Brandao",
   "homepage": "https://github.com/00jfb00/mf-planets#readme",
   "main": "dist/mf-planets.js",
-  "module": "dist/mf-planets.js",
-  "description": "",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -101,5 +99,6 @@
   },
   "bugs": {
     "url": "https://github.com/00jfb00/mf-planets/issues"
-  }
+  },
+  "description": ""
 }
