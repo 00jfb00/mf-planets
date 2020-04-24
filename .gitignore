@@ -19,7 +19,6 @@ dist
 # NPM
 package-lock\.json
 yarn\.json
-.npmrc
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
